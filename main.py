@@ -87,3 +87,7 @@ while True:
 
 
 
+# NPC Dialogue Generator
+# Created by TayasJah Young (Tay) | tayyoung99@rocketmail.com
+# © 2025 All rights reserved.
+# Do not copy or distribute without permission.
